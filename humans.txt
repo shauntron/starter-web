@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shaun Harle			shaun_harle@yahoo.com			@shauntron
 
 # THANKS
 
